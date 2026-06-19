@@ -1,6 +1,4 @@
-#include<stdio.h>
-
+#include <stdio.h>
 int main(){
-    printf("sark");
-    return 0;
+    printf("Where's Ronaldo?\nHe's crying in his car!\nPoor Ronaldo!");
 }
